@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: #444444;
+    font-family: "Trebuchet MS", sans-serif;
+    color: white;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+img {
+    opacity: 0.5;
+}
+
+a {
+    color: rgba(255, 245, 253, 0.5);
+}
+
+a:hover {
+    color: white;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+button {
+    margin: 10px;
+    border-radius: 15%;
+}
+
+.the-text { color: blue; }
+
+.the-text.colorized { 
+    color: pink; 
+    font-size: 2rem; 
+}
